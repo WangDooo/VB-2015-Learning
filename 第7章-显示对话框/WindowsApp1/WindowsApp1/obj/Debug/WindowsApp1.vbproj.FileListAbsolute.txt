@@ -1,0 +1,11 @@
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\DDD\VB\Beginning VB2015\第7章-显示对话框\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
